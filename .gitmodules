@@ -1,0 +1,6 @@
+[submodule "circuit-breaker-mosaic"]
+	path = circuit-breaker-mosaic
+	url = https://github.com/obernardovieira/circuit-breaker-mosaic.git
+[submodule "mosaic"]
+	path = mosaic
+	url = https://github.com/hfccr/mosaic.git
